@@ -2,8 +2,6 @@
 
 A healthy, tangy, and protein-rich Andhra-style sprouts salad with a spicy tempering.
 
----
-
 ## Ingredients
 
 ### Salad
@@ -26,9 +24,8 @@ A healthy, tangy, and protein-rich Andhra-style sprouts salad with a spicy tempe
 - A few curry leaves  
 - A pinch of hing (asafoetida)  
 
----
 
-## Preparation
+## Instructions
 
 1. Wash and boil sprouts lightly for 3–4 minutes, or keep raw if tender. Drain water.  
 2. In a mixing bowl, add sprouts, cucumber, carrot, onion, tomato, green chilies, coconut, coriander, and salt.  
@@ -37,6 +34,5 @@ A healthy, tangy, and protein-rich Andhra-style sprouts salad with a spicy tempe
 5. Pour the tempering over the salad.  
 6. Add lemon juice, toss well, and serve fresh.  
 
----
 
 ✅ **Tip:** Best served as part of a traditional Andhra meal with rice, dal (pappu), and pachadi.
