@@ -19,3 +19,5 @@
   - Cook until bubbles form on the surface and edges look set (about 2 min).
   - Flip and cook another 1–2 min until golden.
   - Serve: Stack warm pancakes with butter, maple syrup, berries, or your favorite toppings.
+
+## Enjoy!
